@@ -1,15 +1,15 @@
 const portfolioItems = [
     {
-        title: 'Project 1',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-        image: 'project1.jpg',
-        link: '#'
+        title: 'CRUD application with Django',
+        description: 'An individual Project done by self learning. Design the CRM Application for Create, Read, Update and Delete the customer records of with using Python, Django, HTML5 and CSS',
+        image: 'Images/crud.png',
+        link: 'https://github.com/maheshkmp/CRUD_applicaton'
     },
     {
-        title: 'Project 2',
-        description: 'Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.',
-        image: 'project2.jpg',
-        link: '#'
+        title: 'Learning Management System with Django',
+        description: 'I am currently working on this individual project, engaging in self-learning to design a Learning Management System (LMS) tailored for school students, parents, and teachers. The project utilizes Python and Django for backend development, while HTML5 and CSS are employed for frontend design. Throughout this endeavor, I am focusing on incorporating best practices and concepts such as Object-Oriented Programming (OOP) principles to ensure robust and efficient system architecture.',
+        image: 'Images/lms.jpg',
+        link: 'https://github.com/maheshkmp/LMS'
     },
     // Add more portfolio items as needed
 ];
